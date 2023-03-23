@@ -1,0 +1,11 @@
+Authentication:
+    Admins will be able to log in and log out.
+    A new admin user can only be registered by another authenticated admin user
+
+Blog Posts:
+    Admins can view the list & details of all blog posts.
+    Admins should be able to delete blog posts.
+
+Comments:
+    Admins can view the list of all comments under a post.
+    Admins should be able to delete comments

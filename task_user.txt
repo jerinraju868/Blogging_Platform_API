@@ -1,0 +1,15 @@
+User Authentication:
+    Users will be able to create an account, log in, and log out.
+    Newly registered users should receive an email upon registration.
+
+Blog Posts:
+    Users can perform CRUD operations in their own blog posts.
+    Users can view the list & details of all blog posts, including blogs posted by other users.
+    Users should be able to upload image attachments with the blog.
+    A blog post should have a title, content, created time & updated time. The rest of the fields should be added as per requirement
+
+Comments:
+    Users can add comments to any posts
+    A user should be able to see all the comments that are posted under a blog post
+    Only the author of the comment will be allowed to edit or delete the comments
+    The created time & updated time of the comment should be saved
